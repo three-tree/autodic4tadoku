@@ -1,0 +1,2 @@
+autodic4tadoku
+==============
